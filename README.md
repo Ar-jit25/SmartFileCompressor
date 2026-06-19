@@ -45,3 +45,20 @@ Steps:
 ---
 
 ## Project Structure
+├── src/
+│ ├── compress.cpp
+│ ├── decompress.cpp
+│ ├── huffman.cpp
+│ ├── node.cpp
+│
+├── input/
+│ └── sample.txt
+│
+├── output/
+│ ├── compressed.bin
+│ └── decompressed.txt
+│
+├── README.md
+└── Makefile
+
+
